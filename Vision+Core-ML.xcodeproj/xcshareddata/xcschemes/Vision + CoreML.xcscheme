@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "11063F5D1EC0EECC0033EE6D"
-               BuildableName = "Vision + CoreML.app"
-               BlueprintName = "Vision + CoreML"
+               BuildableName = "Trash Goals ML.app"
+               BlueprintName = "Trash Goals ML"
                ReferencedContainer = "container:Vision+Core-ML.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,8 +45,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "11063F5D1EC0EECC0033EE6D"
-            BuildableName = "Vision + CoreML.app"
-            BlueprintName = "Vision + CoreML"
+            BuildableName = "Trash Goals ML.app"
+            BlueprintName = "Trash Goals ML"
             ReferencedContainer = "container:Vision+Core-ML.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -62,8 +62,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "11063F5D1EC0EECC0033EE6D"
-            BuildableName = "Vision + CoreML.app"
-            BlueprintName = "Vision + CoreML"
+            BuildableName = "Trash Goals ML.app"
+            BlueprintName = "Trash Goals ML"
             ReferencedContainer = "container:Vision+Core-ML.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
